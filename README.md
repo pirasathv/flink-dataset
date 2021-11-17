@@ -6,7 +6,7 @@ To run and test your application locally, you can just execute `sbt run` then se
 To run unit test, you can just execute `sbt test` .
 
 ## ERD 
-<img width="1163" alt="erd" src="https://user-images.githubusercontent.com/9923573/142284518-2619aa4a-4972-4ba5-b4ed-19127779c87e.png">
+<img width="1166" alt="erd" src="https://user-images.githubusercontent.com/9923573/142288025-95aeccb1-525a-48ce-a70e-e9ccb353b09c.png">
 
 
 # Improvements
